@@ -14,8 +14,7 @@ import java.util.ArrayList;
 //
 
 
-
-
+hello
 public class Company {
     public ArrayList<Department> depList = new ArrayList<Department>();        
     public Company() {
